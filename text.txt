@@ -1,0 +1,5 @@
+hello
+i like to type in random files
+my name is Bob
+I am learning python
+<end transmission>
